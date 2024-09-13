@@ -7,10 +7,6 @@ This project is a recreation of the people tracking system from scratch, based o
 
 This project uses YOLOv8 for region of interest (ROI) detection and OpenCV for tracking and counting people based on flow direction in an airport setting. The key features include:
 
-- **ROI Detection with YOLOv8:** The system detects and tracks individuals within specific areas of interest in the airport, utilizing the power of YOLOv8 for precise object detection.
-  
-- **Flow-Based Counting:** Using OpenCV's flow arrows, the system tracks the direction of movement and counts people as they pass through the ROIs, providing accurate people flow analytics.
-
 ## Key Features
 
 - **Region of Interest (ROI) Detection:**
